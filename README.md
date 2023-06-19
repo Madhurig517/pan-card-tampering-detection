@@ -214,7 +214,7 @@ Output :![t4](https://github.com/Madhurig517/pan-card-tampering-detection/assets
 
 1 ) Computer vision:-
 
- Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they “see”.
+ Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects and then react to what they “see”.
 Computer Vision in Image processing is mainly focused on processing the raw input images to enhance them or preparing them to do other tasks. Computer vision is focused on extracting information from the input images or videos to have a proper understanding of them to predict the visual input like the human brain
 
 2 ) SSSIM:-
